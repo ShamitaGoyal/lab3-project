@@ -64,6 +64,7 @@ This application uses data from [timeout.com](https://www.timeout.com/) to scrap
 - web scraping
 - web crawling
 - BeautifulSoup
+- UI/UX Design
 - requests
 - GUI
 - frontend
