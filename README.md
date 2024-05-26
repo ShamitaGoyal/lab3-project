@@ -57,3 +57,17 @@ This application uses data from (timeout.com)[https://www.timeout.com/] to scrap
 &#9744; <a href="https://www.flaticon.com/free-stickers/family" title="family stickers">Family stickers created by Stickers - Flaticon</a>
 
 &#9744; <a href="https://www.flaticon.com/free-stickers/user" title="user stickers">User stickers created by Stickers - Flaticon</a>
+
+----------
+
+#### <p>Main concepts explored in this lab:</p>
+- tkinter
+- databases/data storage (sql, sqlite3)
+- web scraping
+- web crawling
+- BeautifulSoup
+- requests
+- GUI
+- frontend
+- backend
+
