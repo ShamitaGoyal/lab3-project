@@ -43,5 +43,17 @@ This application uses data from (timeout.com)[https://www.timeout.com/] to scrap
 <p align="center">
   <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/win3.png" width="380" height="310"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/win4.png" width="350" height="210"/>
+  <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/win4.png" width="350" height="250"/>
 </p>
+
+----------
+
+## The links to the avatars/images used in this project:
+
+&#9744; <a href="https://www.flaticon.com/free-animated-icons/people" title="people animated icons">People animated icons created by Freepik - Flaticon</a>
+
+&#9744; <a href="https://www.flaticon.com/free-stickers/travel" title="travel stickers">Travel stickers created by Stickers - Flaticon</a>
+
+&#9744; <a href="https://www.flaticon.com/free-stickers/family" title="family stickers">Family stickers created by Stickers - Flaticon</a>
+
+&#9744; <a href="https://www.flaticon.com/free-stickers/user" title="user stickers">User stickers created by Stickers - Flaticon</a>
