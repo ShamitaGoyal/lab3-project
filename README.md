@@ -13,8 +13,6 @@ This application uses data from [timeout.com](https://www.timeout.com/) to scrap
 
 ----------
 ### Modules you may need to install in your IDE to run the program:
-- `pip install numpy`
-- `pip install matplotlib`
 - `pip install customtkinter`
 
 ----------
