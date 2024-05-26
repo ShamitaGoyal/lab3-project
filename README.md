@@ -35,7 +35,7 @@ This application uses data from (timeout.com)[https://www.timeout.com/] to scrap
 ----------
 ## The previous UI of the application (using only tkinter):
 <p align="center">
-  <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/win1.png" width="450" height="280"/>
+  <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/win1.png" width="350" height="200"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/win2.png" width="380" height="310"/>
 </p>
@@ -43,5 +43,5 @@ This application uses data from (timeout.com)[https://www.timeout.com/] to scrap
 <p align="center">
   <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/win3.png" width="380" height="310"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/win4.png" width="450" height="310"/>
+  <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/win4.png" width="350" height="210"/>
 </p>
