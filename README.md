@@ -1,4 +1,4 @@
-# Lab 3 — An application that lets the user search for the top travel destinations in 2024
+# TravelTrendz 2024 — An application that lets the user search for the top travel destinations in 2024
 
 This application uses data from [timeout.com](https://www.timeout.com/) to scrape data from this [travel website.](https://www.timeout.com/things-to-do/best-places-to-travel)
 
