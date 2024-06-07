@@ -1,6 +1,6 @@
-# TravelTrendz 2024 — An application that lets the user search for the top travel destinations in 2024
+# TravelTrendz 2024
 
-This application uses data from [timeout.com](https://www.timeout.com/) to scrape data from this [travel website.](https://www.timeout.com/things-to-do/best-places-to-travel)
+An application that lets the user search for the top travel destinations in 2024. This application uses data from [timeout.com](https://www.timeout.com/) to scrape data from this [travel website.](https://www.timeout.com/things-to-do/best-places-to-travel)
 
 &#9744; There are multiple python code files (because there are multiple long segments of code used to modify the GUI: 
 - `newfront.py`
