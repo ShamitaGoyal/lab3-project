@@ -29,7 +29,7 @@ An application that lets the user search for the top travel destinations in 2024
 <p align="center">
   <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/pg3.png" width="315" height="400"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/lab3-imgs/pg4.png" width="315" height="400"/>
+  <img src="https://github.com/ShamitaGoyal/lab3-project/blob/main/png/gif.png" width="315" height="400"/>
 </p>
 
 ----------
