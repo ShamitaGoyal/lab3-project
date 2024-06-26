@@ -8,6 +8,8 @@ An application that lets the user search for the top travel destinations in 2024
 - `Image.py`
 - `Query.py`
 - `AnimatedGIFLabel.py`
+- `destinations.json`
+- `destinations.db`
 
 &#9744; This project explores how to write GUI applications using tkinter. However, I have used the `customtkinter` module to make the GUI for my application more modern. The documentation and information about this module can be found here on this [website](https://customtkinter.tomschimansky.com/) or on [Github](https://github.com/TomSchimansky/CustomTkinter).
 
